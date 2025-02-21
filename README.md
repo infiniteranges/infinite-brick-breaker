@@ -2,6 +2,8 @@
 
 A classic arcade game where you control a paddle to hit and destroy bricks on the screen.
 
+[play here](https://infiniteranges.github.io/infinite-brick-breaker/)
+
 ## Gameplay
 
 * Use the arrow keys or right/left joystick to move the paddle left and right.
