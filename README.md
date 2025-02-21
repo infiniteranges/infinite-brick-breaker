@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Notes
 - Resources used:
-  - [v0](v0.dev)
+  - [v0](https://v0.dev)
   - [Continue](https://www.continue.dev/) with [Llama3.1:8b](https://ollama.com/library/llama3.1)
